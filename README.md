@@ -96,7 +96,7 @@ ecommerce-bounty
 ## ⚙️ **Getting Started**
 
 ### 0️⃣ **Demo-Video**
-[Demo-Video](https://youtu.be/AyScSwyfEDY)
+[![Watch the video](https://img.youtube.com/vi/AyScSwyfEDY/0.jpg)](https://www.youtube.com/watch?v=AyScSwyfEDY)
 
 ### 1️⃣ **Clone the Repository**  
 ```bash
